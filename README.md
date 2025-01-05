@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Fousiya</h1>
-<h3 align="center">A Passionate Frontend devolper</h3>
+<h3 align="center">A Passionate Web devolper</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **Html Css Javascript**
+- 💬 Ask me about **Html Css Javascript Python**
 
 - 📫 How to reach me **ssfousiyass@gmail.com**
 
