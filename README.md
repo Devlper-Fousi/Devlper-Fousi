@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fousiya</h1>
 <h3 align="left">Full-Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="350" src="">
 
 - 🔭 I’m currently working on **personal projects and portfolio development**
 - 🌱 I’m currently learning **UI/UX Design**
