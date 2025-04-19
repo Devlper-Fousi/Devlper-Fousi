@@ -1,4 +1,4 @@
-![MasterHead](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Fousiya;Full-Stack+Web+Developer;UI/UX+Designer;Let’s+build+something+amazing!&center=true&width=500)
+![MasterHead](https://raw.githubusercontent.com/BiswajitHemram/BiswajitHemram/main/Header.png)
 
 
 <h1 align="center">Hi 👋, I'm Fousiya</h1>
