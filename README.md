@@ -1,80 +1,57 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Fousiya - Full Stack Developer" />
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Fousiya - Full Stack Developer" style="border-radius:10px;" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Fousiya</h1>
-
-<p align="center">
-  <i>Computer Science Engineer | Full Stack Developer | UI/UX Designer</i><br>
-  <b>Student at APJ Abdul Kalam Technological University</b>  
-</p>
-
-<p align="center">
-  <a href="mailto:ssfousiyass@gmail.com"><img src="https://img.shields.io/badge/email-ssfousiyass@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/fousi2604/"><img src="https://img.shields.io/badge/LinkedIn-Fousiya-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/Devlper-Fousi"><img src="https://img.shields.io/github/followers/Devlper-Fousi?label=Follow&style=social"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Fousiya</h1>
+<h3 align="center">Software Developer | Python | AI | Gen AI | Agentic AI</h3>
+<h4 align="center">B.Tech CSE | APJ Abdul Kalam Technological University</h4>
 
 ---
 
-## 💻 About Me
-
-- 🎓 B.Tech in Computer Science (2024)  
-- 👩‍💻 Passionate about Full Stack Web Development  
-- ✨ Learning by building real-world projects  
-- 🎯 Seeking opportunities to grow as a software engineer
-
----
-
-## 🚀 Tech Stack
-
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `Bootstrap` `React.js`
-
-**Backend & Database:**  
-`Python` `Django` `MySQL`
-
-**Machine Learning:**  
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
-
-**Tools & Platforms:**  
-`VS Code` `Git & GitHub` `Google Colab` `Anaconda`  
+### 🚀 About Me
+- 🔭 I’m currently building full-stack applications & exploring real-world AI.
+- 🌱 Currently diving into **Agentic AI** and modern **frontend/backend stacks**.
+- 🧠 Passionate about **learning by doing**, experimenting with new tech, and solving problems.
+- 👯 Looking to collaborate on impactful open-source or AI projects.
 
 ---
 
-## 📂 Featured Projects
+### 💻 Tech Stack
 
-- 🧠 [**Federated Learning for Emotion Detection**](#)  
-  AI + Privacy: Detects facial emotions without sharing raw data
+#### 🧩 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-- 💊 [**Medical Store Management System**](#)  
-  Django-based web app for pharmacy inventory & billing
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-- 🌐 [**Portfolio Website**](#)  
-  React-based personal site hosted on Vercel
+#### ⚙️ Backend
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-- 🥇 [**Olympic Medal Predictor (ML)**](#)  
-  Data science project using Olympic history dataset
-
----
-
-## 📚 Currently Learning
-
-- Building a weight loss tracker (React + Django)
-- UI/UX fundamentals & portfolio design
-- Hosting & deploying full-stack apps
-
----
-
-## 📫 Let's Connect!
-
-📧 Email: [ssfousiyass@gmail.com](mailto:ssfousiyass@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/fousi2604](https://www.linkedin.com/in/fousi2604/)  
-🌍 Portfolio: *coming soon...*
+#### 🔍 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
 
 ---
 
-> ✨ *"Build. Break. Grow."*
+### 🧪 Projects
+Here are a few projects I'm proud of:
+
+- 💡 [Federated Learning for Face Emotion Detection](https://github.com/Devlper-Fousi/federated-learning-emotion)
+- 🛒 [Medical Store Management System](https://github.com/Devlper-Fousi/medical-store-management)
+- 🥇 [Olympic Medal Predictor (ML)](https://github.com/Devlper-Fousi/olympic-medal-predictor)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/fousi2604/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoCol)]()
+
 
 
