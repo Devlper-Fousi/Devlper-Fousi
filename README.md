@@ -1,43 +1,72 @@
-<h1 align="center">Hi 👋, I'm Fousiya</h1>
-<h3 align="left">Full-Stack Web Developer</h3>
-
-
-- 🔭 I’m currently working on **personal projects and portfolio development**
-- 🌱 I’m currently learning **UI/UX Design**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django**
-- 📫 Reach me at **sshfousiyass@gmail.com**
-- ✨ Fun Fact: **Mistakes are proof that you're trying – I learn and grow every day**
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/fousi2604/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:sshfousiyass@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<h1 align="center">Hi there 👋, I'm Fousiya</h1>
+<p align="center">
+  🌐 Full Stack Developer | 🎓 B.Tech CSE 2024 | 💡 UI/UX Designer | 🤖 Python & ML Enthusiast
 </p>
 
 ---
 
-### 💻 Languages and Tools:
+### 👩‍💻 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+I'm a Computer Science Engineer passionate about building clean, responsive websites and smart software solutions. I enjoy blending **design** with **development**, and solving real-world problems with **code**.
+
+---
+
+### 🚀 Skills
+
+**Frontend:**
+- HTML, CSS, JavaScript, Bootstrap, React.js
+
+**Backend & Programming:**
+- Python, Django, MySQL, Git & GitHub
+
+**Machine Learning:**
+- NumPy, Pandas, Matplotlib, Scikit-learn, SVM, KNN, Decision Trees
+
+**Tools:**
+- VS Code, Jupyter Notebook, Google Colab, Anaconda
+
+**Others:**
+- UI/UX Design, Responsive Web Design, Figma (basic)
+
+---
+
+### 🛠️ Projects
+
+📌 **[Federated Learning for Emotion Detection](#)**  
+An AI project using TensorFlow & CNN to detect emotions from faces across distributed clients without centralizing data.
+
+📌 **[Medical Store Management System](#)**  
+A Django-based full-stack application to manage inventory, billing, and reports for pharmacies.
+
+📌 **[Personal Portfolio Website](#)**  
+Responsive single-page portfolio made with React.js and custom styling hosted on Vercel.
+
+📌 **[Olympic Medal Predictor](#)**  
+A Streamlit + ML-based data project that predicts Olympic medals using supervised learning algorithms.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devlper-Fousi&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devlper-Fousi&layout=compact&theme=radical" width="48%" />
 </p>
 
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: ssfousiyass@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fousi2604/)  
+- 🗂️ [Resume (PDF)](#) *(Add your resume link here)*  
+- 🌍 [Portfolio](#) *(Add your portfolio site link here when live)*
 
 ---
 
-### 💡 Quote to Inspire:
-> **“Learn by doing. Break things. Fix them. Repeat.”**
+### ✨ Quote I Live By
+
+> **"Build. Break. Grow."**
 
 ---
-
-
 
