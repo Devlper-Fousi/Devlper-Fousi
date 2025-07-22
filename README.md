@@ -1,72 +1,80 @@
-<h1 align="center">Hi there 👋, I'm Fousiya</h1>
+<!-- Banner -->
 <p align="center">
-  🌐 Full Stack Developer | 🎓 B.Tech CSE 2024 | 💡 UI/UX Designer | 🤖 Python & ML Enthusiast
+  <img src="https://your-image-link.com/banner.png" alt="Fousiya - Full Stack Developer" />
+</p>
+
+<h1 align="center">Hi there! 👋 I'm Fousiya</h1>
+
+<p align="center">
+  <i>Computer Science Engineer | Full Stack Developer | UI/UX Designer</i><br>
+  <b>Student at APJ Abdul Kalam Technological University</b>  
+</p>
+
+<p align="center">
+  <a href="mailto:ssfousiyass@gmail.com"><img src="https://img.shields.io/badge/email-ssfousiyass@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/fousi2604/"><img src="https://img.shields.io/badge/LinkedIn-Fousiya-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/Devlper-Fousi"><img src="https://img.shields.io/github/followers/Devlper-Fousi?label=Follow&style=social"></a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 💻 About Me
 
-I'm a Computer Science Engineer passionate about building clean, responsive websites and smart software solutions. I enjoy blending **design** with **development**, and solving real-world problems with **code**.
-
----
-
-### 🚀 Skills
-
-**Frontend:**
-- HTML, CSS, JavaScript, Bootstrap, React.js
-
-**Backend & Programming:**
-- Python, Django, MySQL, Git & GitHub
-
-**Machine Learning:**
-- NumPy, Pandas, Matplotlib, Scikit-learn, SVM, KNN, Decision Trees
-
-**Tools:**
-- VS Code, Jupyter Notebook, Google Colab, Anaconda
-
-**Others:**
-- UI/UX Design, Responsive Web Design, Figma (basic)
+- 🎓 B.Tech in Computer Science (2024)  
+- 👩‍💻 Passionate about Full Stack Web Development  
+- ✨ Learning by building real-world projects  
+- 🎯 Seeking opportunities to grow as a software engineer
 
 ---
 
-### 🛠️ Projects
+## 🚀 Tech Stack
 
-📌 **[Federated Learning for Emotion Detection](#)**  
-An AI project using TensorFlow & CNN to detect emotions from faces across distributed clients without centralizing data.
+**Frontend:**  
+`HTML` `CSS` `JavaScript` `Bootstrap` `React.js`
 
-📌 **[Medical Store Management System](#)**  
-A Django-based full-stack application to manage inventory, billing, and reports for pharmacies.
+**Backend & Database:**  
+`Python` `Django` `MySQL`
 
-📌 **[Personal Portfolio Website](#)**  
-Responsive single-page portfolio made with React.js and custom styling hosted on Vercel.
+**Machine Learning:**  
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
-📌 **[Olympic Medal Predictor](#)**  
-A Streamlit + ML-based data project that predicts Olympic medals using supervised learning algorithms.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devlper-Fousi&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devlper-Fousi&layout=compact&theme=radical" width="48%" />
-</p>
+**Tools & Platforms:**  
+`VS Code` `Git & GitHub` `Google Colab` `Anaconda`  
 
 ---
 
-### 📫 Let’s Connect
+## 📂 Featured Projects
 
-- 📧 Email: ssfousiyass@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fousi2604/)  
-- 🗂️ [Resume (PDF)](#) *(Add your resume link here)*  
-- 🌍 [Portfolio](#) *(Add your portfolio site link here when live)*
+- 🧠 [**Federated Learning for Emotion Detection**](#)  
+  AI + Privacy: Detects facial emotions without sharing raw data
+
+- 💊 [**Medical Store Management System**](#)  
+  Django-based web app for pharmacy inventory & billing
+
+- 🌐 [**Portfolio Website**](#)  
+  React-based personal site hosted on Vercel
+
+- 🥇 [**Olympic Medal Predictor (ML)**](#)  
+  Data science project using Olympic history dataset
 
 ---
 
-### ✨ Quote I Live By
+## 📚 Currently Learning
 
-> **"Build. Break. Grow."**
+- Building a weight loss tracker (React + Django)
+- UI/UX fundamentals & portfolio design
+- Hosting & deploying full-stack apps
 
 ---
+
+## 📫 Let's Connect!
+
+📧 Email: [ssfousiyass@gmail.com](mailto:ssfousiyass@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/fousi2604](https://www.linkedin.com/in/fousi2604/)  
+🌍 Portfolio: *coming soon...*
+
+---
+
+> ✨ *"Build. Break. Grow."*
+
 
