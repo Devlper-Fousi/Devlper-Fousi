@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Fousiya - Full Stack Developer" style="border-radius:10px;" />
+  <img src="https://github.com/Devlper-Fousi/Devlper-Fousi/blob/main/banner.png" alt="Fousiya - Full Stack Developer" style="border-radius:10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fousiya</h1>
