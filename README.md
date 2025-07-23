@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🤖 AI / ML
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-### 🧪 Projects
+### Projects
 
 Here are a few projects I'm proud of:
 
