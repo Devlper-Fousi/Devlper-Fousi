@@ -3,6 +3,7 @@
 </p>
 
 # Hi 👋, I'm Fousiya
+[Portfolio](https://fousiya-portfolio.netlify.app/) 
 ### Software Developer | Python | AI | Gen AI | Agentic AI  
 #### B.Tech CSE | APJ Abdul Kalam Technological University
 
