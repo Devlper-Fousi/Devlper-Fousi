@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔭 I’m currently building full-stack applications & exploring real-world AI.  
 - 🌱 Currently diving into **Agentic AI** and modern **frontend/backend stacks**.  
