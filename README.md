@@ -2,7 +2,7 @@
   <img src="https://github.com/Devlper-Fousi/Devlper-Fousi/blob/main/github-header-image%20(2).png" alt="Fousiya - Full Stack Developer" style="border-radius:10px;" />
 </p>
 
-# Hi 👋, I'm Fousiya
+# Hi 👋🏽, I'm Fousiya
 [Portfolio](https://fousiya-portfolio.netlify.app/) 
 ### Software Developer | Python | AI | Gen AI | Agentic AI  
 #### B.Tech CSE | APJ Abdul Kalam Technological University
